@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836979095793",
+    "firebase_url": "https://personal-de8ae.firebaseio.com",
+    "project_id": "personal-de8ae",
+    "storage_bucket": "personal-de8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836979095793:android:19a9232b77df5d3d",
+        "android_client_info": {
+          "package_name": "assignment.aravind.com.musicgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836979095793-e2tl5i0q5a8rrfmb83ouj0kga6sikms5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "assignment.aravind.com.musicgroup",
+            "certificate_hash": "5444c26404ee74e5580bee404647f2917df83a36"
+          }
+        },
+        {
+          "client_id": "836979095793-pmhva2dgh0qrrqd0aftkl3spnma8i1cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaGFcrexFNwHZWQpo3qerW95LCd93-ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836979095793-pmhva2dgh0qrrqd0aftkl3spnma8i1cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
